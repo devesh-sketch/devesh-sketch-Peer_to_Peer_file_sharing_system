@@ -3,7 +3,9 @@
 ![Android](https://img.shields.io/badge/Android-35-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-2.0.0-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![Live Showcase Demo](https://img.shields.io/badge/🌐_LIVE_WEB_DEMO-SHOWCASE-2563EB?style=for-the-badge)
+
+👉 **[Launch Interactive Live Web Showcase Demo](https://devesh-sketch.github.io/devesh-sketch-Peer_to_Peer_file_sharing_system/)**
 
 **FlashShare** is a high-speed, offline peer-to-peer (P2P) file and movie sharing Android app built with **Jetpack Compose Material 3**, **CameraX + ML Kit QR Scanner**, and an **Embedded HTTP Web Streaming Engine**.
 
